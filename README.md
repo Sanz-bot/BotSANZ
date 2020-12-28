@@ -1,5 +1,5 @@
-# 🤖Naga-Bot🤖
-BOT WHATSAPP TERMUX ONLY BY Sekaii Mod
+# 🤖Sanz-bot🤖
+BOT WHATSAPP TERMUX HANYA OLEH Sekaii Mod
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.

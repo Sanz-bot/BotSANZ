@@ -1,6 +1,6 @@
 # 🤖Sanz-bot🤖
-BOT WHATSAPP TERMUX HANYA OLEH Sekaii Mod
-
+BOT WHATSAPP TERMUX HANYA OLEH SANZ MOD
+</s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </ s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s>       </s> orang </s>
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
